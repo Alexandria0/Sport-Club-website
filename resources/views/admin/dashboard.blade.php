@@ -1,0 +1,13 @@
+<x-app-layout>
+
+    <div class="p-6">
+        <h1 class="text-3xl font-bold">
+            Admin Dashboard
+        </h1>
+
+        <p class="mt-4">
+            Bine ai venit, admin!
+        </p>
+    </div>
+
+</x-app-layout>
